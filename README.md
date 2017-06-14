@@ -1,0 +1,2 @@
+# AutoWP
+Auto Install WordPress
